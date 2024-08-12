@@ -1,0 +1,4 @@
+python -m venv myvenv
+source myvenv/bin/activate
+
+pip  install numpy Pillow tensorflow scipy matplotlib
