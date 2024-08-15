@@ -1,4 +1,4 @@
 python -m venv myvenv
 source myvenv/bin/activate
 
-pip  install numpy Pillow tensorflow scipy matplotlib
+pip  install numpy Pillow tensorflow scipy matplotlib seaborn opencv-python flask
