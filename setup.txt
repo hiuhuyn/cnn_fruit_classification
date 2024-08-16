@@ -1,4 +1,15 @@
 python -m venv myvenv
 source myvenv/bin/activate
 
+Thư viện cần có
 pip  install numpy Pillow tensorflow scipy matplotlib seaborn opencv-python flask
+
+Dataset
+https://drive.google.com/file/d/1come_zIYvODqFonKiZIhr_eaXr86drD6/view?usp=sharing
+
+Bố cục data:
+data:
+    data4:
+        train
+        test
+        validation
